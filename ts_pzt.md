@@ -1,0 +1,3 @@
+---
+theme: academic
+highlighter: shiki
